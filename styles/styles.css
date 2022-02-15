@@ -5,8 +5,16 @@ h1 {
 }
 
 p, a {
-    font-family: 'Yantramanav', sans-serif;
+    font-family: 'Yantramanav', sans-serif; 
+}
+
+p {
+    margin-bottom: 30px;
+    font-size: 14px;
+    color: #3e3c3b;
 }
 
 /* Layout */
+
+
 
