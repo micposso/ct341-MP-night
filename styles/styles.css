@@ -1,1 +1,12 @@
+/* Typography */
+
+h1 {
+    font-family: 'Frank Ruhl Libre', serif;
+}
+
+p, a {
+    font-family: 'Yantramanav', sans-serif;
+}
+
+/* Layout */
 
